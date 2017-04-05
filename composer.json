@@ -1,0 +1,17 @@
+{
+    "name": "agilesdesign/myrtle-core-theme-auth-beach",
+    "description": "Core Auth Theme for Myrtle WMS",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Justin Seliga",
+            "email": "jseliga@agilesdesign.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Myrtle\\Core\\Themes\\Auth\\Beach\\Theme\\": "src/Theme"
+        }
+    }
+}

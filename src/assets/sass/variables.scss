@@ -1,0 +1,34 @@
+$border-radius:          0.25rem;
+$border-radius-sm:       0.15rem;
+$border-radius-lg:       0.5rem;
+
+$enable-flex: true;
+
+$myrtle-blue: #006f71;
+$myrtle-blue-lightest: lighten($myrtle-blue, 12%);
+$myrtle-blue-lighter: lighten($myrtle-blue, 8%);
+$myrtle-blue-light: lighten($myrtle-blue, 4%);
+$myrtle-blue-dark: darken($myrtle-blue, 4%);
+$myrtle-blue-darker: darken($myrtle-blue, 8%);
+$myrtle-blue-darkest: darken($myrtle-blue, 12%);
+
+$myrtle-brown: #6e665a;
+$myrtle-brown-lightest: lighten($myrtle-brown, 12%);
+$myrtle-brown-lighter: lighten($myrtle-brown, 8%);
+$myrtle-brown-light: lighten($myrtle-brown, 4%);
+$myrtle-brown-dark: darken($myrtle-brown, 4%);
+$myrtle-brown-darker: darken($myrtle-brown, 8%);
+$myrtle-brown-darkest: darken($myrtle-brown, 12%);
+
+$myrtle-tan: #f9f3e9;
+$myrtle-tan-lightest: lighten($myrtle-tan, 12%);
+$myrtle-tan-lighter: lighten($myrtle-tan, 8%);
+$myrtle-tan-light: lighten($myrtle-tan, 4%);
+$myrtle-tan-dark: darken($myrtle-tan, 4%);
+$myrtle-tan-darker: darken($myrtle-tan, 8%);
+$myrtle-tan-darkest: darken($myrtle-tan, 12%);
+
+$myrtle-orange: #ffac30;
+
+$brand-primary: $myrtle-blue;
+$brand-warning: $myrtle-orange;
