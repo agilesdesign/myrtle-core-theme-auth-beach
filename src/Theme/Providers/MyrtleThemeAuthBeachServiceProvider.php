@@ -14,7 +14,7 @@ class MyrtleThemeAuthBeachServiceProvider extends ServiceProvider
     public function boot()
     {
 		$this->publishes([
-			base_path(). '/vendor/agilesdesign/myrtle-core-theme-auth-beach/src/public' => public_path(),
+			base_path(). '/vendor/agilesdesign/myrtle-theme-auth-beach/src/public' => public_path(),
 		], 'public');
     }
 }
