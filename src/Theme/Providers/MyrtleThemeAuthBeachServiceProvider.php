@@ -1,6 +1,6 @@
 <?php
 
-namespace Myrtle\Core\Themes\Auth\Beach\Theme\Providers;
+namespace Myrtle\Themes\Auth\Beach\Theme\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
